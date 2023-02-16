@@ -2,6 +2,7 @@
   <div
     class="VueCarousel-slide"
     tabindex="-1"
+    aria-hidden="false"
     role="tabpanel"
     :class="{
       'VueCarousel-slide-active': isActive,
